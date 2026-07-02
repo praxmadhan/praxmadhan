@@ -124,3 +124,261 @@ YOLOv8 • OpenCV • Twilio API
 ### ⭐ Thanks for visiting my profile!
 
 </div>
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
+
+<h1 align="center">🚀 Featured Projects</h1>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AI Bank Locker Security
+
+### 🎯 Real-Time Video Anomaly Detection
+
+A deep learning-based surveillance system that detects suspicious activity in real time and instantly alerts users.
+
+### ⚙ Tech Stack
+
+Python • YOLOv8 • TensorFlow • OpenCV • Twilio API
+
+### ✨ Features
+
+✅ Real-time Detection
+
+✅ SMS Alerts
+
+✅ Snapshot Capture
+
+✅ Warning Sound
+
+✅ Deep Learning
+
+---
+
+⭐ **Status:** Final Year Project
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎓 EventorHub
+
+### College Event Management Platform
+
+A modern event management system with online registration, payments, analytics and admin dashboard.
+
+### ⚙ Tech Stack
+
+Flask • SQLite • Razorpay • Chart.js • JavaScript
+
+### ✨ Features
+
+✅ Role Based Login
+
+✅ Event Management
+
+✅ Payment Gateway
+
+✅ Email Confirmation
+
+✅ Analytics Dashboard
+
+---
+
+⭐ **Status:** Completed
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Portfolio Website
+
+### Personal Developer Portfolio
+
+Visit Here 👇
+
+### 🌍 Live Website
+
+https://www.prasannainfo.website
+
+### ✨ Features
+
+✅ Responsive UI
+
+✅ Custom Domain
+
+✅ AI Chatbot
+
+✅ Modern Design
+
+✅ Contact Section
+
+---
+
+⭐ **Status:** Live
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💎 Aarohi Bridals
+
+### Software Engineer Intern Contribution
+
+🌍 Live Website
+
+https://www.aarohibridals.in
+
+### 👨‍💻 My Contributions
+
+✅ Responsive UI Development
+
+✅ Feature Enhancements
+
+✅ Frontend Improvements
+
+✅ Backend Integration
+
+✅ Performance Optimization
+
+✅ Bug Fixes
+
+✅ Deployment Support
+
+---
+
+> 💼 Contributed as part of the Software Engineering team at Ad Soft Technologies.  
+> Source code is proprietary and not publicly available.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💼 Professional Experience
+
+<table>
+
+<tr>
+
+<td>
+
+## 🏢 Ad Soft Technologies
+
+### Software Engineer Intern
+
+📅 Apr 2026 – Present
+
+Worked on real-world client applications including:
+
+- 💎 Aarohi Bridals
+- 🏥 Healthcare Platform
+- ⛪ Church Community Website
+
+### Responsibilities
+
+✔ Full Stack Development
+
+✔ Frontend Development
+
+✔ Backend Development
+
+✔ API Integration
+
+✔ Responsive UI
+
+✔ Deployment
+
+✔ Bug Fixing
+
+✔ Team Collaboration
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🚀 Current Focus
+
+<table>
+
+<tr>
+
+<td align="center">
+
+🤖
+
+### AI Business Website Generator
+
+Building an AI-powered platform that generates modern business websites with minimal user input.
+
+**Coming Soon 🚀**
+
+</td>
+
+<td align="center">
+
+💻
+
+### Software Engineering
+
+Developing scalable web applications using modern technologies and AI-assisted workflows.
+
+</td>
+
+<td align="center">
+
+☁
+
+### Cloud & AI
+
+Learning AWS, AI Agents, LLMs and modern cloud technologies.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## 🌟 Open to Collaboration
+
+I'm always interested in collaborating on:
+
+🤖 AI Projects
+
+🌐 Full Stack Applications
+
+☁ Cloud Projects
+
+🚀 SaaS Products
+
+💡 Open Source
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 "Building software that solves real-world problems."
+
+</div>
