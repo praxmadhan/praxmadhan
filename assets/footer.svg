@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="160" viewBox="0 0 1500 160" fill="none" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fac" x1="0" y1="0" x2="1500" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1e3a8a"/><stop offset="0.5" stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="ffade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.35"/><stop offset="1" stop-color="#05070f" stop-opacity="0"/></linearGradient>
+    <style>.q{font-family:'Segoe UI',Arial,sans-serif;font-weight:600;}</style>
+  </defs>
+  <path fill="url(#fac)" opacity="0.85" d="M0 70 C 250 20 450 120 750 70 C 1050 20 1250 120 1500 70 L1500 160 L0 160 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M0 70 C 250 20 450 120 750 70 C 1050 20 1250 120 1500 70 L1500 160 L0 160 Z;
+              M0 70 C 250 120 450 20 750 70 C 1050 120 1250 20 1500 70 L1500 160 L0 160 Z;
+              M0 70 C 250 20 450 120 750 70 C 1050 20 1250 120 1500 70 L1500 160 L0 160 Z"/>
+  </path>
+  <path fill="url(#ffade)" d="M0 90 C 300 50 500 130 750 90 C 1000 50 1200 130 1500 90 L1500 160 L0 160 Z"/>
+  <text x="750" y="140" text-anchor="middle" class="q" font-size="18" fill="#ffffff" opacity="0.95">Building software that solves real-world problems.</text>
+</svg>

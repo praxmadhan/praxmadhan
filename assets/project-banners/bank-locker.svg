@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-label="AI Bank Locker Security">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#05070f"/><stop offset="1" stop-color="#0a1122"/></linearGradient>
+    <radialGradient id="gl" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#38bdf8" stop-opacity="0.5"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+    <filter id="gw" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.t{font-family:'Segoe UI',Arial,sans-serif;font-weight:800;}.s{font-family:'Segoe UI',Arial,sans-serif;font-weight:600;}.c{font-family:'Consolas',monospace;}</style>
+  </defs>
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <ellipse cx="950" cy="180" rx="420" ry="280" fill="url(#gl)"/>
+  <g stroke="#1e2b45" stroke-width="1" opacity="0.5"><path d="M0 90 H1200 M0 180 H1200 M0 270 H1200"/><path d="M300 0 V360 M600 0 V360 M900 0 V360"/></g>
+  <rect x="60" y="70" width="1080" height="220" rx="24" fill="#ffffff" fill-opacity="0.05" stroke="#38bdf8" stroke-opacity="0.3" stroke-width="1.5"/>
+  <!-- shield/lock icon -->
+  <g transform="translate(120,120)" filter="url(#gw)">
+    <path d="M60 0 L118 22 V70 C118 118 92 150 60 168 C28 150 2 118 2 70 V22 Z" fill="none" stroke="url(#ac)" stroke-width="4"/>
+    <rect x="38" y="70" width="44" height="40" rx="6" fill="none" stroke="#38bdf8" stroke-width="4"/>
+    <path d="M46 70 V56 A14 14 0 0 1 74 56 V70" fill="none" stroke="#38bdf8" stroke-width="4"/>
+    <circle cx="60" cy="88" r="6" fill="#22d3ee"/>
+  </g>
+  <text x="290" y="150" class="t" font-size="46" fill="#ffffff" filter="url(#gw)">AI Bank Locker Security</text>
+  <text x="292" y="192" class="s" font-size="21" fill="#7dd3fc">Real-Time Video Anomaly Detection &amp; SMS Alerting</text>
+  <g class="c" font-size="15" fill="#cbd5e1">
+    <rect x="292" y="216" width="118" height="30" rx="15" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.35"/><text x="351" y="236" text-anchor="middle">YOLOv8</text>
+    <rect x="420" y="216" width="132" height="30" rx="15" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.35"/><text x="486" y="236" text-anchor="middle">TensorFlow</text>
+    <rect x="562" y="216" width="110" height="30" rx="15" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.35"/><text x="617" y="236" text-anchor="middle">OpenCV</text>
+    <rect x="682" y="216" width="96" height="30" rx="15" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.35"/><text x="730" y="236" text-anchor="middle">Twilio</text>
+  </g>
+</svg>

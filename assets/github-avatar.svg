@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500" fill="none" role="img" aria-label="Prasanna N avatar">
+  <defs>
+    <radialGradient id="abg" cx="0.5" cy="0.35" r="0.75">
+      <stop offset="0" stop-color="#0b1428"/>
+      <stop offset="1" stop-color="#04060d"/>
+    </radialGradient>
+    <linearGradient id="aaccent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <filter id="aglow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>.m{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif;font-weight:800;}</style>
+  </defs>
+  <rect width="500" height="500" rx="110" fill="url(#abg)"/>
+  <rect x="8" y="8" width="484" height="484" rx="104" fill="none" stroke="url(#aaccent)" stroke-width="4" opacity="0.9"/>
+  <g stroke="#1e3358" stroke-width="1.5" opacity="0.6" fill="none">
+    <circle cx="250" cy="250" r="210"/>
+    <circle cx="250" cy="250" r="170"/>
+  </g>
+  <g fill="#38bdf8">
+    <circle cx="250" cy="40" r="5"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="460" cy="250" r="5"><animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="460" r="5" fill="#818cf8"/>
+    <circle cx="40" cy="250" r="5" fill="#818cf8"/>
+  </g>
+  <text x="250" y="320" text-anchor="middle" class="m" font-size="230" fill="#ffffff" filter="url(#aglow)">PN</text>
+</svg>

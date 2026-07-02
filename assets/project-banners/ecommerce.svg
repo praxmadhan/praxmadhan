@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-label="Aarohi Bridals E-Commerce">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#05070f"/><stop offset="1" stop-color="#0a1122"/></linearGradient>
+    <radialGradient id="gl" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#f472b6" stop-opacity="0.4"/><stop offset="1" stop-color="#f472b6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+    <filter id="gw" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.t{font-family:'Segoe UI',Arial,sans-serif;font-weight:800;}.s{font-family:'Segoe UI',Arial,sans-serif;font-weight:600;}.c{font-family:'Consolas',monospace;}</style>
+  </defs>
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <ellipse cx="950" cy="180" rx="420" ry="280" fill="url(#gl)"/>
+  <g stroke="#1e2b45" stroke-width="1" opacity="0.5"><path d="M0 90 H1200 M0 180 H1200 M0 270 H1200"/><path d="M300 0 V360 M600 0 V360 M900 0 V360"/></g>
+  <rect x="60" y="70" width="1080" height="220" rx="24" fill="#ffffff" fill-opacity="0.05" stroke="#f472b6" stroke-opacity="0.3" stroke-width="1.5"/>
+  <!-- cart icon -->
+  <g transform="translate(122,124)" filter="url(#gw)">
+    <path d="M0 6 H22 L40 96 H104 L120 34 H34" fill="none" stroke="url(#ac)" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="48" cy="120" r="10" fill="none" stroke="#f472b6" stroke-width="4"/>
+    <circle cx="98" cy="120" r="10" fill="none" stroke="#f472b6" stroke-width="4"/>
+  </g>
+  <text x="290" y="150" class="t" font-size="46" fill="#ffffff" filter="url(#gw)">Aarohi Bridals</text>
+  <text x="292" y="192" class="s" font-size="21" fill="#f9a8d4">E-Commerce Platform &#8226; Intern Contribution @ Ad Soft</text>
+  <g class="c" font-size="15">
+    <rect x="292" y="216" width="300" height="32" rx="16" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.45"/>
+    <circle cx="312" cy="232" r="5" fill="#f472b6"><animate attributeName="opacity" values="0.4;1;0.4" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="328" y="237" fill="#fce7f3">LIVE &#8594; www.aarohibridals.in</text>
+  </g>
+</svg>
