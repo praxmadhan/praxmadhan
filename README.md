@@ -527,3 +527,8 @@ Contribute to the developer community and build impactful software.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1E3A8A&height=120&section=footer"/>
 
 </div>
+<h1 align="center">🐍 Contribution Snake</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/praxmadhan/praxmadhan/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
