@@ -382,3 +382,148 @@ I'm always interested in collaborating on:
 ### 💙 "Building software that solves real-world problems."
 
 </div>
+<!-- ========================================================= -->
+<!--                    GITHUB ANALYTICS                       -->
+<!-- ========================================================= -->
+
+<h1 align="center">📊 GitHub Analytics</h1>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praxmadhan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=praxmadhan&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praxmadhan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=praxmadhan&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=praxmadhan&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=praxmadhan&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📈 Contribution Statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praxmadhan&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praxmadhan&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praxmadhan&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=praxmadhan&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=praxmadhan&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 🛠 Development Philosophy
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+🚀
+
+### Build
+
+Create products that solve real-world problems.
+
+</td>
+
+<td align="center" width="33%">
+
+💡
+
+### Learn
+
+Continuously improve through projects and experimentation.
+
+</td>
+
+<td align="center" width="33%">
+
+🌍
+
+### Share
+
+Contribute to the developer community and build impactful software.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"Building software isn't just about writing code—it's about solving problems, creating value, and continuously learning."**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:1E3A8A&height=120&section=footer"/>
+
+</div>
